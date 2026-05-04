@@ -1,4 +1,4 @@
-# RFSD Region-Year Dataset Builder
+# RFSD dataset
 
 Скрипт написан для дипломной работы. Он обрабатывает данные из базы бухгалтерской отчётности [RFSD](https://huggingface.co/datasets/irlspbru/RFSD) и собирает итоговый датасет на уровне регион-год.
 
